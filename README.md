@@ -1,3 +1,28 @@
+Assignment 1 <br>
+1) Create a user called as Amar and assign him all the user privileges to him. Create session, unlimited tablespace, create table
+
+<img width="1911" height="919" alt="Screenshot 2026-03-23 102415" src="https://github.com/user-attachments/assets/ac5e6d83-fdf8-4f9f-8339-0adfe8449230" />
+
+
+<img width="1475" height="774" alt="Screenshot 2026-03-23 102002" src="https://github.com/user-attachments/assets/3179b29b-9019-458c-9a27-30bb4d1772e4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
